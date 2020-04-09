@@ -40,4 +40,5 @@ public class GettingStartedTest {
         result = g.addFive(2);
         Assertions.assertEquals(7, result);
     }
+     
 }
